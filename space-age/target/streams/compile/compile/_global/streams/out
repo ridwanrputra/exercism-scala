@@ -1,0 +1,36 @@
+[0m[[0m[31merror[0m] [0m[0m/home/specialthanks/snap/exercism/5/exercism/scala/space-age/src/main/scala/SpaceAge.scala:4:53: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    def onMercury(second: Double): Double = onEarth(second)*0.2408467[0m
+[0m[[0m[31merror[0m] [0m[0m                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/specialthanks/snap/exercism/5/exercism/scala/space-age/src/main/scala/SpaceAge.scala:6:50: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    def onVenus(second: Double): Double =onEarth(second)*0.61519726[0m
+[0m[[0m[31merror[0m] [0m[0m                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/specialthanks/snap/exercism/5/exercism/scala/space-age/src/main/scala/SpaceAge.scala:8:49: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    def onMars(second: Double): Double =onEarth(second)*1.8808158[0m
+[0m[[0m[31merror[0m] [0m[0m                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/specialthanks/snap/exercism/5/exercism/scala/space-age/src/main/scala/SpaceAge.scala:10:52: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    def onJupiter(second: Double): Double =onEarth(second)*11.862615[0m
+[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/specialthanks/snap/exercism/5/exercism/scala/space-age/src/main/scala/SpaceAge.scala:12:51: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    def onSaturn(second: Double): Double =onEarth(second)* 29.447498[0m
+[0m[[0m[31merror[0m] [0m[0m                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/specialthanks/snap/exercism/5/exercism/scala/space-age/src/main/scala/SpaceAge.scala:14:51: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    def onUranus(second: Double): Double =onEarth(second)*84.016846[0m
+[0m[[0m[31merror[0m] [0m[0m                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/specialthanks/snap/exercism/5/exercism/scala/space-age/src/main/scala/SpaceAge.scala:16:52: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    def onNeptune(second: Double): Double =onEarth(second)*164.79132[0m
+[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m

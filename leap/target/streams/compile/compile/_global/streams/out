@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/specialthanks/snap/exercism/5/exercism/scala/leap/src/main/scala/Leap.scala:5:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mLeap.leapYear(2000)[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

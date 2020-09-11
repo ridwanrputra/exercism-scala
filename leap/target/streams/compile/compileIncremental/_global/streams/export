@@ -1,0 +1,1 @@
+scalac -bootclasspath /home/specialthanks/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar -classpath /home/specialthanks/snap/exercism/5/exercism/scala/leap/target/scala-2.12/classes /home/specialthanks/snap/exercism/5/exercism/scala/leap/src/main/scala/Leap.scala

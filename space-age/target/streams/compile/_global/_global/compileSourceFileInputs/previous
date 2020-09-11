@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.8":{"hashes":[["/home/specialthanks/snap/exercism/5/exercism/scala/space-age/src/main/scala/SpaceAge.scala","83170a30d2b07cb121b860eee2dae6cc3f84e53b"]],"lastModifiedTimes":[]}}]
